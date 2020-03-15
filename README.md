@@ -1,5 +1,5 @@
 # 622.2107.3
-622.2107.3 Projects Repository
+622.2107.3 Projects Repository of 9 groups. Two student member for each group and with one group potentially will have three students in order to make up for 19 students enrolled for this course in this semester 2/2562.
 
 Instructions:
 Students will have to upload their group project of two members into this repository according to the following dates.
